@@ -6,6 +6,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAvelino)](https://github.com/anuraghazra/github-readme-stats)
 ## tecnologias que estou aprendendo
-<css>Javascript  CSS  HTML</p>
+<css>Javascript  CSS  HTML JAVA SQL</p>
 
 </div>
